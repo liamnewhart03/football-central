@@ -104,11 +104,15 @@ body {
 footer {
 	font-size: 10px;
 	color: #2e67f8;
+	padding: 10px;
+	margin: 10px;
 }
 
 .bearsFooter {
 	font-size: 10px;
 	color: #C83803;
+	padding: 10px;
+	margin: 10px;
 }
 
 
